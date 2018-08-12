@@ -1,4 +1,4 @@
-# Project 1 - *Personal Blog with Bootstrap
+# Project 1 - *Personal Blog with Bootstrap*
 
 Time spent: **10** hours spent in total
 
