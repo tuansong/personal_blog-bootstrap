@@ -6,14 +6,14 @@ Time spent: **10** hours spent in total
 
 The following **required** functionalities are completed:
 
-[x] Responsive for any screen (desktop, laptop, tablet, phone) with Bootstrap.
-[x] Have at least 2 pages:
-1 main overview page (index.html) like the Bootstrap blog example or ideas above.
-1 blog page with at least a picture and a paragraph. If you don't have any picture, you can use https://placeimg.com/ for img and https://www.lipsum.com/ for dummy text.
-[x] Use Bootstrap grid system (container > row > col) to layout and align content.
-[x] Navigation on header and social icons (twitter, instagram, github, linkedin, facebook, etc.) on footer.
-[x] Carousel for the banner image (example: [activello]https://colorlib.com/activello/ or dazzling)
-[x] At least 2 cards for featured posts.
+* [x] Responsive for any screen (desktop, laptop, tablet, phone) with Bootstrap.
+* [x] Have at least 2 pages:
+        * [x] 1 main overview page (index.html) like the Bootstrap blog example or ideas above.
+        * [x] 1 blog page with at least a picture and a paragraph. If you don't have any picture, you can use https://placeimg.com/ for img and https://www.lipsum.com/ for dummy text.
+* [x] Use Bootstrap grid system (container > row > col) to layout and align content.
+* [x] Navigation on header and social icons (twitter, instagram, github, linkedin, facebook, etc.) on footer.
+* [x] Carousel for the banner image (example: [activello]https://colorlib.com/activello/ or dazzling)
+* [x] At least 2 cards for featured posts.
 
 The following **optional** features are implemented:
 
