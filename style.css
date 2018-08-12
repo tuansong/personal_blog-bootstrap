@@ -1,0 +1,62 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-size: 24px;
+    font-family: 'Satisfy', cursive;
+  }
+
+  @media (min-width: 768px) {
+    * { 
+      font-size: 20px;
+    }
+  }
+
+ body {
+    background-color: #F6ECEF;
+    color: #f29db4;
+ }
+
+.box-shadow { 
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
+  }
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+}
+
+.btn-outline-success {
+    color: #ea5d83;
+    background-color: transparent;
+    background-image: none;
+    border-color: #ea5d83;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ea5d83;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #ea5d83;
+}
+
+section {
+    margin-top: 20px;
+}
+
+.card-deck .card {
+    min-width: 220px;
+  }
+
+  .card-body {
+      color: #ea5d83;
+  }
+
+  footer {
+      background-color: black;
+      color:#ea5d83;
+  }
+
+  .modal-title {
+      color: black;
+  }

@@ -1,0 +1,28 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-size: 24px;
+    font-family: 'Satisfy', cursive;
+  }
+
+  @media (min-width: 768px) {
+    * { 
+      font-size: 20px;
+    }
+  }
+
+ body {
+    background-color: #F6ECEF;
+    color: black;
+ }
+
+ .container {
+     width: 60%;
+     margin-top: 80px;
+ }
+
+
+.breadcrumb {
+    background: none;
+}
