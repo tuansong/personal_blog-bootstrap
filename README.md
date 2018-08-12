@@ -1,6 +1,6 @@
 # Project 2 - *Personal Blog with Bootstrap*
 
-Time spent: **10** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## User Stories
 
@@ -8,8 +8,8 @@ The following **required** functionalities are completed:
 
 * [x] Responsive for any screen (desktop, laptop, tablet, phone) with Bootstrap.
 * [x] Have at least 2 pages:
-        * [x] 1 main overview page (index.html) like the Bootstrap blog example or ideas above.
-        * [x] 1 blog page with at least a picture and a paragraph. If you don't have any picture, you can use https://placeimg.com/ for img and https://www.lipsum.com/ for dummy text.
+* [x] 1 main overview page (index.html) like the Bootstrap blog example or ideas above.
+* [x] 1 blog page with at least a picture and a paragraph. If you don't have any picture, you can use https://placeimg.com/ for img and https://www.lipsum.com/ for dummy text.
 * [x] Use Bootstrap grid system (container > row > col) to layout and align content.
 * [x] Navigation on header and social icons (twitter, instagram, github, linkedin, facebook, etc.) on footer.
 * [x] Carousel for the banner image (example: [activello]https://colorlib.com/activello/ or dazzling)
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/35DohSuJCqGhTfY2ZO/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/35DohSuJCqGhTfY2ZO/giphy.gif' title='Video Walkthrough' width='400px' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
