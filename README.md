@@ -17,11 +17,10 @@ The following **required** functionalities are completed:
 
 The following **optional** features are implemented:
 
-* [x] Add favicon to the page
-* [ ] Animation on an element
-* [ ] Navigation, contact, sitemap, privacy policy, term of use, etc in footer
-* [x] Bootstrap carousel for banner
-* [ ] Banner with background video
+* [x] Add a breadcrumb on the child page to easily go back to the main page.
+* [x] Include a 'Get in touch' form with at least name, email and message fields for guests to submit enquiries.
+* [x] Add a modal component (e.g. when clicing on a button or a hyperlink).
+* [x] Add a dropdown on top navigation.
 
 The following **additional** features are implemented:
 
